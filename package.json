@@ -1,5 +1,6 @@
 {
   "name": "ecommerce",
+  "homepage": "https://glorious-ruby-ox.cyclic.app/",
   "version": "1.0.0",
   "description": "",
   "main": "backend/server.js",
